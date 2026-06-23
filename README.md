@@ -160,7 +160,7 @@ Benefits:
 ```text
 student-crud/
 │
-├── frontend/
+├── student-crud-frontend/
 │   ├── index.html
 │   ├── app.js
 │   └── style.css
@@ -417,13 +417,10 @@ Through this project, I gained practical experience with:
 ---
 
 ## Author
-
 Akshay Dhongade
 
-AWS Cloud Engineer | Full Stack Developer
+AWS Cloud Engineer | DevOps Engineer| Full Stack Developer
 
-GitHub:
-https://github.com/asdweb22
+GitHub: https://github.com/asdweb22
 
-LinkedIn:
-(Add Your LinkedIn Profile Link)
+LinkedIn: https://linkedin.com/in/iamakshaydhongade
