@@ -21,8 +21,6 @@ The application follows a serverless architecture where all backend operations a
 
 ## Architecture
 
-## Architecture
-
 ![Serverless Student Management System Architecture](Serverless_architecture.png)
 
 ## AWS Services Used
