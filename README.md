@@ -21,23 +21,9 @@ The application follows a serverless architecture where all backend operations a
 
 ## Architecture
 
-```text
-Users
-  |
-  v
-Amazon S3 (Static Website Hosting)
-  |
-  v
-Amazon API Gateway
-  |
-  v
-AWS Lambda Functions
-  |
-  v
-Amazon DynamoDB
-```
+## Architecture
 
----
+![Serverless Student Management System Architecture](Serverless_architecture.png)
 
 ## AWS Services Used
 
